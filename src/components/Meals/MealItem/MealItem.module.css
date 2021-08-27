@@ -1,0 +1,23 @@
+.meal {
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem; 
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #730260;
+}
+
+.meal h3 {
+    margin: 0 0 0.25rem 0; 
+}
+
+.description {
+    font-style: inherit;
+    max-width: 80%;
+}
+
+.price {
+    margin-top: 0.25rem;
+    font-weight: bold;
+    color: #DB9723;
+    font-size: 1.25rem;
+}
